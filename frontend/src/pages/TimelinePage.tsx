@@ -8,12 +8,18 @@ import ProgressBar from '../components/shared/ProgressBar';
 import StatusBadge from '../components/shared/StatusBadge';
 import TimelineVisualization from '../components/timeline/TimelineVisualization';
 import EventModal from '../components/event/EventModal';
+import EventsTab from '../components/tabs/EventsTab';
+import SourcesTab from '../components/tabs/SourcesTab';
+import BranchesTab from '../components/tabs/BranchesTab';
 import type { Event } from '../types/timeline';
+
+type TabType = 'overview' | 'events' | 'sources' | 'branches';
 
 export default function TimelinePage() {
   const { id } = useParams<{ id: string }>();
   const [selectedEvent, setSelectedEvent] = useState<Event | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [activeTab, setActiveTab] = useState<TabType>('overview');
 
   // Poll for status
   const { data: status, isLoading: statusLoading, isError: statusError } = useTimelineStatus(id);
@@ -164,29 +170,76 @@ export default function TimelinePage() {
           {/* Tabs */}
           <div className="border-b border-gray-200 mb-8">
             <div className="flex gap-8">
-              <button className="border-b-2 border-blue-600 text-blue-600 pb-4 font-medium">
+              <button
+                onClick={() => setActiveTab('overview')}
+                className={`border-b-2 pb-4 font-medium transition-colors ${
+                  activeTab === 'overview'
+                    ? 'border-blue-600 text-blue-600'
+                    : 'border-transparent text-gray-600 hover:text-gray-900'
+                }`}
+              >
                 Overview
               </button>
-              <button className="border-b-2 border-transparent text-gray-600 pb-4 hover:text-gray-900">
+              <button
+                onClick={() => setActiveTab('events')}
+                className={`border-b-2 pb-4 font-medium transition-colors ${
+                  activeTab === 'events'
+                    ? 'border-blue-600 text-blue-600'
+                    : 'border-transparent text-gray-600 hover:text-gray-900'
+                }`}
+              >
                 Events
               </button>
-              <button className="border-b-2 border-transparent text-gray-600 pb-4 hover:text-gray-900">
+              <button
+                onClick={() => setActiveTab('sources')}
+                className={`border-b-2 pb-4 font-medium transition-colors ${
+                  activeTab === 'sources'
+                    ? 'border-blue-600 text-blue-600'
+                    : 'border-transparent text-gray-600 hover:text-gray-900'
+                }`}
+              >
                 Sources
               </button>
-              <button className="border-b-2 border-transparent text-gray-600 pb-4 hover:text-gray-900">
+              <button
+                onClick={() => setActiveTab('branches')}
+                className={`border-b-2 pb-4 font-medium transition-colors ${
+                  activeTab === 'branches'
+                    ? 'border-blue-600 text-blue-600'
+                    : 'border-transparent text-gray-600 hover:text-gray-900'
+                }`}
+              >
                 Branches
               </button>
             </div>
           </div>
 
-          {/* Timeline Visualization */}
+          {/* Tab Content */}
           {timeline.events.length > 0 ? (
-            <div className="bg-white border border-gray-200 rounded-lg overflow-hidden">
-              <TimelineVisualization
-                events={timeline.events}
-                onEventClick={handleEventClick}
-              />
-            </div>
+            <>
+              {activeTab === 'overview' && (
+                <div className="bg-white border border-gray-200 rounded-lg overflow-hidden">
+                  <TimelineVisualization
+                    events={timeline.events}
+                    onEventClick={handleEventClick}
+                  />
+                </div>
+              )}
+
+              {activeTab === 'events' && (
+                <EventsTab
+                  events={timeline.events}
+                  onEventClick={handleEventClick}
+                />
+              )}
+
+              {activeTab === 'sources' && (
+                <SourcesTab events={timeline.events} />
+              )}
+
+              {activeTab === 'branches' && (
+                <BranchesTab events={timeline.events} />
+              )}
+            </>
           ) : (
             <div className="bg-gray-50 border-2 border-dashed border-gray-300 rounded-lg p-12 text-center">
               <p className="text-gray-600">No events found in this timeline</p>
