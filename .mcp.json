@@ -1,0 +1,12 @@
+{
+	"mcpServers": {
+		"veritas-db": {
+			"command": "npx",
+			"args": [
+				"-y",
+				"@modelcontextprotocol/server-postgres",
+				"postgresql://ammar@localhost:5432/veritas"
+			]
+		}
+	}
+}

@@ -1,0 +1,967 @@
+{
+	"status": "ok",
+	"totalResults": 300,
+	"articles": [
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi continues to chokes under thick haze as AQI remains 'Very Poor' despite GRAP-III curbs",
+			"description": "Delhi woke up to a thick haze on Wednesday morning. The city's Air Quality Index reached 'Very Poor' levels. Major areas recorded high pollution readings. This comes despite ongoing restrictions. Volcanic ash from Ethiopia arrived but is not expected to worse…",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-continues-to-chokes-under-thick-haze-as-aqi-remains-very-poor-despite-grap-iii-curbs/articleshow/125578936.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125578965,width-1200,height-630,imgsize-22636,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-26T04:03:03Z",
+			"content": "As temperatures continue to plummet with the onset of winter, a dense blanket of haze covered Delhi on Wednesday morning. The citys average Air Quality Index (AQI) recorded 337 at 7 am, slightly bett… [+2643 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Delhi wakes up to 'very poor' AQI; Ethiopian volcanic ash unlikely to have immediate impact",
+			"description": "Visuals near the South Extension showed a layer of toxic smog blanketing the area. AQI around the area was recorded at 348 at 7 am.",
+			"url": "https://www.thehindubusinessline.com/news/national/delhi-wakes-up-to-very-poor-aqi-ethiopian-volcanic-ash-unlikely-to-have-immediate-impact/article70324439.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/12ipym/article70324450.ece/alternates/LANDSCAPE_1200/25TH-KOSHY-ToxiGTNF7FVHN.4.jpg.jpg",
+			"publishedAt": "2025-11-26T03:46:48Z",
+			"content": "A layer of haze engulfed the national capital on Wednesday morning as the average Air Quality Index (AQI) stood at 337 at 7 am, falling under the 'very poor' category despite the Graded Response Acti… [+2206 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Economictimes.com" },
+			"author": "Economic Times",
+			"title": "Breaking News Live Updates: Delhi air quality worsens again as AQI spikes in parts of national capital",
+			"description": "Breaking News Live Updates: After a brief and marginal improvement on Tuesday, air quality in Delhi-NCR deteriorated sharply again on Wednesday as cold weather returned with heavy pollution. Bawana recorded an AQI of 382, placing it firmly in the ‘Very Poor’ …",
+			"url": "https://m.economictimes.com/news/newsblogs/breaking-world-india-news-live-updates-russia-ukraine-trump-putin-zelenskyy-modi-congress-bjp-congress-weather-updates-delhi-air-quality-pollution/liveblog/125577601.cms",
+			"urlToImage": "https://economictimes.indiatimes.com/thumb/msid-125577601,width-600,resizemode-4,imglength-106850/news/newsblogs/breaking-world-india-news-live-updates-russia-ukraine-trump-putin-zelenskyy-modi-congress-bjp-congress-weather-updates-delhi-air-quality-pollution.jpg",
+			"publishedAt": "2025-11-26T02:04:06Z",
+			"content": "Breaking News Live Updates: After a brief and marginal improvement on Tuesday, air quality in Delhi-NCR deteriorated sharply again on Wednesday as cold weather returned with heavy pollution. Bawana r… [+571 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Soham Shah",
+			"title": "Breathless Pune: Part 4-‘Eyes start to water’; air pollution on roads choking traffic cops, gig workers",
+			"description": "Traffic police, cab drivers, and gig workers in Pune face prolonged exposure to high pollution levels that far exceed ambient AQI readings, leading to long-term respiratory and eye-related health risks.",
+			"url": "https://indianexpress.com/article/cities/pune/breathless-pune-eyes-water-air-pollution-traffic-cops-gig-workers-10385449/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Untitled-design-2025-11-25T211955.734.png",
+			"publishedAt": "2025-11-25T15:52:00Z",
+			"content": "A traffic cop manning a busy three-way intersection in the city thanklessly directs traffic with three of his colleagues. As hundreds of vehicles make their way through, fumes of dust and smoke rise … [+5726 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Video: 10,000-year silent volcano erupts in Ethiopia, eyewitnesses say 'felt like a sudden bomb'",
+			"description": "Ethiopia's Hayli Gubbi volcano erupted for the first time in 10,000 years, sending a massive ash plume 15 km high. Eyewitnesses were shocked to see the massive eruption and said it felt like a sudden bomb. The eruption has impacted air travel in India, with s…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/video-ethiopia-volcano-erupted-for-the-first-time-in-10000-years-eyewitnesses-say-felt-like-a-sudden-bomb/articleshow/125559515.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125559580,width-1200,height-630,imgsize-1050596,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-25T08:05:51Z",
+			"content": "A volcano in Ethiopia has erupted for the first known time in 10,000 years, spewing plumes of thick smoke and ash high into the sky. Hayli Gubbi, a shield volcano located in Ethiopia's Afar region, e… [+4803 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "PTI",
+			"title": "Delhi tops India in PM2.5 pollution; 447 districts exceed national air quality limit: Report",
+			"description": "New Delhi, Delhi is the most polluted state. Its annual PM2.5 concentration is 101 micrograms per cubic metre. This is 2.5 times the Indian standard. Chandigarh is second. Many districts across India exceed air quality standards. Delhi and Assam have the most…",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-air-pollution-aqi-india-pm2-5-pollution-447-districts-exceed-national-quality-limit/articleshow/125556673.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125556726,width-1200,height-630,imgsize-25714,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-25T05:39:13Z",
+			"content": "Delhi ranked as the most polluted among 33 states and Union territories with an annual mean PM2.5 concentration of 101 micrograms per cubic metre, 2.5 times the Indian standard and 20 times the WHO g… [+1648 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Rs 80,10,00,000 for a comic? Superman No 1 found in mom's attic breaks record as most valuable comic ever sold",
+			"description": "A rare Superman comic book discovered in an attic has fetched an astonishing $9.12 million at auction. This pristine 1939 edition of Superman No. 1 is now the most valuable comic ever sold. Three brothers found the comic while clearing out their late mother's…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/rs-801000000-for-a-comic-superman-no-1-found-in-moms-attic-breaks-record-as-most-valuable-comic-ever-sold/articleshow/125555951.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125556014,width-1200,height-630,imgsize-31808,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-25T04:59:27Z",
+			"content": "A Superman comic found in an attic has become the most valuable ever after being sold for $9.12 million. The pristine copy of the first Superman comic was found by three brothers stored in their late… [+3865 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "PTI",
+			"title": "Delhi: No respite from toxic air amid fears of volcanic ash from Ethiopia",
+			"description": "A thick haze hung over Delhi on Monday as the city's air quality remained 'very poor' amid concerns that ash clouds from an volcanic activity in Ethiopia may worsen pollution levels in the region.",
+			"url": "https://www.thehindubusinessline.com/news/delhi-no-respite-from-toxic-air-amid-fears-of-volcanic-ash-from-ethiopia/article70320215.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/55nk9y/article70320292.ece/alternates/LANDSCAPE_1200/2025-11-24T165653Z_1424097974_RC243IAZ6RSY_RTRMADP_3_ETHIOPIA-VOLCANO.JPG",
+			"publishedAt": "2025-11-25T04:54:13Z",
+			"content": "A thick haze hung over Delhi on Monday as the city's air quality remained 'very poor' amid concerns that ash clouds from an volcanic activity in Ethiopia may worsen pollution levels in the region.\r\nH… [+1436 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Ash clouds from Ethiopia volcano to move away from India by 7.30 PM",
+			"description": "Ash clouds from Ethiopia's Hayli Gubbi volcano are drifting eastwards towards China, expected to clear Indian skies by 7:30 pm. The eruption, the first in nearly 10,000 years, impacted Indian flight operations on Monday, with advisories issued to avoid affect…",
+			"url": "https://economictimes.indiatimes.com/news/india/ash-clouds-from-ethiopia-volcano-to-move-away-from-india-by-7-30-pm/articleshow/125555038.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125555295,width-1200,height-630,imgsize-49784,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-25T04:20:50Z",
+			"content": "Ash clouds from Ethiopias Hayli Gubbi volcano are drifting eastwards towards China, the India Meteorological Department (IMD) told PTI on Tuesday, with the ash expected to clear Indian skies by 7.30 … [+2619 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Salesforce CEO Marc Benioff says he won't use OpenAI's ChatGPT again: 'I am not going back, it feels like...'",
+			"description": "Salesforce CEO Marc Benioff announced he is switching from OpenAI's ChatGPT to Google's Gemini 3, calling the new model an \"insane\" leap forward in reasoning, speed, and multimodal capabilities. After a two-hour experience, Benioff stated he is \"not going bac…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/salesforce-ceo-marc-benioff-says-he-wont-use-openais-chatgpt-again-google-gemini-3-i-am-not-going-back-it-feels-like-/articleshow/125555083.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125555096,width-1200,height-630,imgsize-42324,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-25T04:09:34Z",
+			"content": "Salesforce CEO Marc Benioff said he is ditching OpenAI's ChatGPT for Google's newest AI model, Gemini 3. His remarks came after he used Google's latest AI model Gemini 3 and experienced a significant… [+3520 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Delhi air quality today: Will the Ethiopian ash cloud worsen national capital's AQI? Check details",
+			"description": "The air quality in Delhi on Tuesday remained at the upper range of the very poor category, with the overall AQI touching 363, though it marked a slight improvement from Monday. Amid the worsening air quality in Delhi-NCR, Volcanic ash from Ethiopia's Hayli Gu…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/delhi-air-quality-today-will-the-ethiopian-ash-cloud-worsen-national-capital-aqi-check-details/articleshow/125554727.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125554762,width-1200,height-630,imgsize-49784,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-25T03:36:13Z",
+			"content": "The Air Quality Index (AQI) in Delhi stood at 363 at 7 am on Tuesday morning, falling under the 'very poor' category. There has been no improvement in the quality of air in Delhi and its surrounding … [+3016 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Sophiya Mathew",
+			"title": "In severe air, classrooms struggle to cope with hybrid mode of learning",
+			"description": "No clear guidelines for teaching; schools find their own solutions amid GRAP 3 restrictions; parents despair as children suffer.",
+			"url": "https://indianexpress.com/article/cities/delhi/in-severe-air-classrooms-struggle-to-cope-with-hybrid-mode-of-learning-10384275/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Teachers-complain-it-is-difficult-to-simultaneously-teach-a-class-online-and-in-person.-Sophiya-Mathew.jpg",
+			"publishedAt": "2025-11-24T22:50:22Z",
+			"content": "Schools across Delhi-NCR were early responders to this years bad-air season. On November 11, the Delhi government mandated hybrid classes a mix of physical and online teaching wherever feasible for s… [+5730 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Ndtvprofit.com" },
+			"author": "Ann Jacob",
+			"title": "Delhi Govt, Private Offices Asked To Allow 50% Staff WFH As Air Pollution Worsens",
+			"description": "In a move to combat air pollution, the Delhi government has mandated that all government and private offices must operate at a maximum of 50% physical attendance, with the remaining staff required to work from home (WFH).",
+			"url": "https://www.ndtvprofit.com/nation/delhi-government-private-offices-asked-to-allow-50-staff-wfh-as-air-pollution-worsens",
+			"urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-24%2F2u3o16c9%2Fravi-sharma-K0Qo3qQDQpM-unsplash.jpg?rect=0%2C404%2C4092%2C2148&w=1200&auto=format%2Ccompress&ogImage=true",
+			"publishedAt": "2025-11-24T15:28:48Z",
+			"content": "In a move to combat air pollution, the Delhi government has mandated that all government and private offices must operate at a maximum of 50% physical attendance, with the remaining staff required to… [+1909 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi govt orders offices to run with 50% staff and permit work from home as pollution rises",
+			"description": "Delhi is intensifying its fight against toxic air. Offices, both government and private, must now operate with only half their staff on-site. The remaining employees will work from home. This measure is part of the Graded Response Action Plan Stage III. The c…",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-govt-orders-offices-to-run-with-50-staff-and-permit-work-from-home-as-pollution-rises/articleshow/125543725.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125543731,width-1200,height-630,imgsize-924614,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-24T14:48:31Z",
+			"content": "Delhis fight against toxic air has intensified once again. As pollution continues to hover at worrying levels, the Delhi government has directed both government and private offices to function with o… [+2520 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi AQI hits 400: The air is almost poison; Here’s exactly what to eat, avoid and do right now to protect yourself",
+			"description": "Delhi AQI hits 400: Delhi's air quality has reached dangerous levels, with AQI nearing the 'severe' category. This toxic air poses significant health risks, necessitating protective measures. The article outlines dietary recommendations, indoor safety tips, o…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/delhi-aqi-hits-400-the-air-is-almost-poison-heres-exactly-what-to-eat-avoid-and-do-right-now-to-protect-yourself/articleshow/125542854.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125543294,width-1200,height-630,imgsize-1027816,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-24T14:21:19Z",
+			"content": "Delhi AQI hits 400: Delhi's air quality has reached dangerous levels, with AQI nearing the 'severe' category. This toxic air poses significant health risks, necessitating protective measures. The art… [+148 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Sophiya Mathew",
+			"title": "How Delhi’s air-quality monitors work — and why their readings can falter",
+			"description": "Last week, the Supreme Court asked Delhi authorities to check the equipment used in air-quality monitoring stations. As the city’s deteriorating AQI makes air monitoring more and more crucial, here’s a breakdown of how AQI is monitored in the national capital.",
+			"url": "https://indianexpress.com/article/explained/how-delhis-air-quality-monitors-work-and-why-their-readings-can-falter-10383472/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Untitled-design-18-1.png",
+			"publishedAt": "2025-11-24T11:30:54Z",
+			"content": "Earlier this week, the Supreme Court asked authorities to explain the equipment used in Delhi air-quality monitoring stations and whether it is suited to the citys conditions a question raised at a t… [+6063 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Khabarhub.com" },
+			"author": "Khabarhub",
+			"title": "Delhi grapples with lingering air pollution",
+			"description": "NEW DELHI: The air quality in Delhi and its surrounding areas turned hazardous on Monday, with a thick blanket of smog engulfing several areas in the Indian capital city. According to the Central Pollution Control Board, many areas, particularly in the easter…",
+			"url": "https://english.khabarhub.com/2025/24/507461/",
+			"urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/11/Air-pollution-Delhi-scaled.jpg",
+			"publishedAt": "2025-11-24T09:15:40Z",
+			"content": "NEW DELHI: The air quality in Delhi and its surrounding areas turned hazardous on Monday, with a thick blanket of smog engulfing several areas in the Indian capital city.\r\nAccording to the Central Po… [+684 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Residents near Delhi’s waste-to-energy plants say they’re choking as GRAP leaves out key polluters",
+			"description": "Residents near Delhi's waste-to-energy plants face unbearable air pollution. Plants in Okhla, Narela-Bawana, Ghazipur, and Tehkhand release harmful gases and pollutants daily. Families report persistent smoke and foul odors. The Graded Response Action Plan do…",
+			"url": "https://economictimes.indiatimes.com/news/india/residents-near-delhis-waste-to-energy-plants-say-theyre-choking-as-grap-leaves-out-key-polluters/articleshow/125533427.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125533598,width-1200,height-630,imgsize-42686,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-24T06:17:09Z",
+			"content": "Residents living around Delhis waste-to-energy (WTE) plants in Okhla, Narela-Bawana, Ghazipur and Tehkhand say they are among the worst affected as the Capital chokes under very poor air quality, The… [+2148 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Delhi AQI today: Delhi-NCR continues to choke as air quality remains 'very poor'. When will the conditions improve?",
+			"description": "Delhi AQI, November 24, 2025: Delhi is experiencing severe air pollution, with AQI levels in the 'very poor' and 'severe' categories. Despite GRAP-III measures, toxic smog is expected to persist until November 26. Residents are advised to limit outdoor activi…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/delhi-aqi-today-delhi-ncr-continues-to-choke-as-air-quality-remains-very-poor-when-will-the-conditions-improve/articleshow/125532635.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125532720,width-1200,height-630,imgsize-42870,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-24T05:27:03Z",
+			"content": "The average Air Quality Index (AQI) in Delhi stood at 396 at 7 am, falling under the 'very poor' category despite the Graded Response Action Plan (GRAP)-III. A thick layer of haze engulfed the nation… [+3596 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Ndtvprofit.com" },
+			"author": "NDTV Profit Trending Desk",
+			"title": "'Leaving Delhi Should Be Your Top Priority': London-based Techie Urges As Pollution Worsens",
+			"description": "An Indian tech professional living in London urged people to abandon Delhi due to its deteriorating air quality, revealing that even a brief visit left him gasping for breath. “Leave Delhi, go in debt if you have to,” wrote Kunal Kushwaha, Senior Developer Ad…",
+			"url": "https://www.ndtvprofit.com/nation/delhi-pollution-news-leaving-delhi-should-be-your-top-priority-london-based-techie-urges-as-pollution-worsens",
+			"urlToImage": "https://media.assettype.com/bloombergquint%2F2019-11%2Ffe444a23-096a-4fd3-8468-d88fd8025c3a%2F15111_pti11_15_2019_000066b.jpg?rect=0%2C0%2C3917%2C2056&w=1200&auto=format%2Ccompress&ogImage=true",
+			"publishedAt": "2025-11-24T02:52:45Z",
+			"content": "But I was wrong. Its a crisis. And honestly, leaving this city should be your top priority. After living in London for a few years and breathing clean air, the moment I landed in Delhi. I could liter… [+1237 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Bureau",
+			"title": "Breath-taking Delhi needs an air-lift",
+			"description": "Delhi-NCR is grappling with a staggering air quality emergency. Emissions from waste incineration play a major role in polluting the atmosphere. In response, authorities have introduced more stringent measures. Immediate initiatives are essential to revamp wa…",
+			"url": "https://economictimes.indiatimes.com/opinion/et-editorial/breath-taking-delhi-needs-an-air-lift/articleshow/125522615.cms",
+			"urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-9644,resizemode-75,msid-125522615/opinion/et-editorial/breath-taking-delhi-needs-an-air-lift.jpg",
+			"publishedAt": "2025-11-23T17:04:36Z",
+			"content": "When GoI launched National Air Quality Index (AQI) in 2014 as part of Swachh Bharat, it promised a simple 'one number-one colour-one description' tool to help citizens gauge the air they breathe. Mor… [+1553 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Anuradha Mascarenhas",
+			"title": "Breathless Pune | For every 10 µg/m3 increase in PM2.5 level, there was 6-8 % jump in medicine sales: Study",
+			"description": "As respiratory problems climb with air pollution, doctors say reacting only when air quality becomes very poor in Pune would be a huge folly",
+			"url": "https://indianexpress.com/article/cities/pune/pm2-5-levels-increase-medicine-sales-jump-pune-air-pollution-10381613/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Pune-pollution.jpg",
+			"publishedAt": "2025-11-23T08:49:21Z",
+			"content": "Vandana Chaudhary, 43, who stays at Balewadi, has struggled with road and construction dust and is exhausted from recurring sinusitis. I am finding it harder each day to cope with the air around me. … [+8978 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Tejas fighter jet crash: Father of IAF pilot Namansh Syal was scrolling videos of Dubai Airshow on YouTube when he learned about son's death",
+			"description": "Wing Commander Naman Syal tragically died in a Tejas fighter jet crash at the Dubai Air Show. His father was scrolling through the son's vides on YouTube when he came across the tragic news of Tejas fighter jet crash in Dubai Air show. Namansh Syal, a decorat…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/tejas-fighter-jet-crash-father-of-iaf-pilot-namansh-syal-was-scrolling-videos-of-dubai-airshow-on-youtube-when-he-learned-about-sons-death/articleshow/125517058.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125517113,width-1200,height-630,imgsize-808897,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-23T07:27:59Z",
+			"content": "Jagan Nath Syal, the father of Wing Commander Namansh Syal who died in the Tejas fighter jet crash at Dubai Air Show Friday, was scrolling through YouTube when he came across the news of Tejas jet cr… [+4678 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express Web Desk",
+			"title": "Delhi News LIVE Updates: Air quality remains ‘very poor’, AQI at 381",
+			"description": "Data from the CPCB’s Sameer app showed that 13 monitoring stations reported \"severe\" air quality, while 25 others recorded readings above 300, falling into the \"very poor\" range.",
+			"url": "https://indianexpress.com/article/cities/delhi/delhi-news-live-updates-air-quality-remains-very-poor-aqi-red-fort-blast-10381335/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Delhi-Air-Pollution-1-1.jpg",
+			"publishedAt": "2025-11-23T05:45:09Z",
+			"content": "Worried over the possible withdrawal of recognition by the National Medical Commission (NMC), parents of students enrolled at Faridabads Al Falah University met senior faculty members on Saturday. Th… [+787 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Mahima Sharma",
+			"title": "9 Powerful Shani Remedies As Per Your Birth Date",
+			"description": "Lord Shani, the planet of karma and justice, is believed to bring consequences for actions. To mitigate negative effects, the article suggests remedies like performing good deeds, practicing charity, adopting a disciplined and sattvik lifestyle, and showing r…",
+			"url": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/9-powerful-shani-remedies-as-per-your-birth-date/articleshow/125515504.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125515602,width-1070,height-580,imgsize-54864,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-23T05:39:23Z",
+			"content": "Lord Shani, the planet of karma and justice, is believed to bring consequences for actions. To mitigate negative effects, the article suggests remedies like performing good deeds, practicing charity,… [+1888 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "TOI Education",
+			"title": "UP Home Guard 2025 registration underway for more than 40,000 vacancies: Check complete details here",
+			"description": "Uttar Pradesh has launched one of its largest Home Guard recruitment drives in 2025, announcing 41,424 vacancies through the UP Police Recruitment & Promotion Board. Applications are open from November 18 to December 17, 2025 for candidates aged 18–30 with Cl…",
+			"url": "https://timesofindia.indiatimes.com/education/news/up-home-guard-2025-registration-underway-for-more-than-40000-vacancies-check-complete-details-here/articleshow/125515993.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125515989,width-1070,height-580,imgsize-1617939,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-23T05:35:06Z",
+			"content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>UP Home Guard 2025 registration underway for more than 40,000 vacancies: Check complete details here</li></ul>\r\nUttar Pradesh has launch… [+2068 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Ndtvprofit.com" },
+			"author": "PTI",
+			"title": "Delhi Air Quality Remains 'Very Poor', AQI Stands At 381",
+			"description": "The air quality in the national capital remained in the 'very poor' category on Sunday morning, with the overall Air Quality Index (AQI) recorded at 381, according to the Central Pollution Control Board (CPCB).",
+			"url": "https://www.ndtvprofit.com/nation/delhi-air-quality-remains-very-poor-aqi-stands-at-381",
+			"urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-10%2F79xsilqw%2FPTI11092025RPM414B.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+			"publishedAt": "2025-11-23T05:18:41Z",
+			"content": "An AQI between 0 and 50 is considered 'good', 51 to 100 'satisfactory', 101 to 200 'moderate', 201 to 300 'poor', 301 to 400 'very poor', and 401 to 500 'severe', according to CPCB standards."
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "TOI Astrology",
+			"title": "Weekly Egyptian Horoscope, November 24-30, 2025: These Zodiac Signs Begin a Powerful Rebirth This Week",
+			"description": "Egyptian astrology guides you through the week, emphasizing divine forces for personal growth. Each zodiac sign receives specific advice, encouraging clarity, intuition, honesty, and self-care. The horoscopes focus on embracing inner wisdom and making choices…",
+			"url": "https://timesofindia.indiatimes.com/astrology/horoscope/weekly-egyptian-horoscope-november-24-30-2025-these-zodiac-signs-begin-a-powerful-rebirth-this-week/articleshow/125487716.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125488284,width-1070,height-580,imgsize-72220,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-23T05:12:16Z",
+			"content": "Egyptian astrology guides you through the week, emphasizing divine forces for personal growth. Each zodiac sign receives specific advice, encouraging clarity, intuition, honesty, and self-care. The h… [+1817 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Delhi's air quality turns 'severe' as AQI reading soars to 435",
+			"description": "A layer of thick smog engulfed several areas, showing little to no improvement from Sunday morning's AQI of 359. Bawana recorded the highest AQI level of 435 at 7 am, falling under the 'severe' category",
+			"url": "https://www.thehindubusinessline.com/news/national/delhis-air-quality-turns-severe-as-aqi-reading-soars-to-435/article70313518.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/1v5iot/article70313537.ece/alternates/LANDSCAPE_1200/02_Smog_22_11_Delhi.jpg",
+			"publishedAt": "2025-11-23T03:52:12Z",
+			"content": "The national capital woke up to dense smog on Sunday morning as the average Air Quality Index (AQI) stood at 381 at 7 am, falling under the 'very poor' category despite the Graded Response Action Pla… [+2349 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Your eyes hold secrets to how long you live. New alarming study finds link between eyes, heart disease and diabetes. Check details",
+			"description": "New research reveals a strong link between eye health and overall well-being and if you take regular eye check ups, it can help you detect cardiovascular diseases early. Experts have sounded alarm that eye can tell about your hidden heart troubles and diabete…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/your-eyes-hold-secrets-to-how-long-you-will-live-new-alarming-study-finds-link-between-eyes-heart-disease-and-diabetes/articleshow/125514489.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125515001,width-1200,height-630,imgsize-26632,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-23T03:11:35Z",
+			"content": "A new research is gaining attention as it shows how the retina and vascular system are connected. According to a report in Prevention, your retinal blood vessels can act like a window into heart heal… [+6812 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Trending Desk",
+			"title": "Delhi AQI: Delhi continues to breath toxic air as AQI crosses 400 mark in several areas on 10th consecutive day. Check update for Noida, Gurugram",
+			"description": "Delhi NCR AQI: Delhi choked under 'severe' air quality for a tenth consecutive day, with multiple areas exceeding the 400 AQI mark. Several monitoring stations in Delhi recorded AQI above the 400 mark on Sunday, according to CPCB. Noida and Ghaziabad also rep…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/delhi-aqi-today-delhi-continues-to-breath-toxic-air-as-aqi-crosses-400-mark-in-several-areas-on-10th-consecutive-day-check-update-for-noida-gurugram-and-more/articleshow/125514716.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125514725,width-1200,height-630,imgsize-441367,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-23T02:22:02Z",
+			"content": "There was no respite from toxic air for Delhi on Sunday as it continued to endure 'severe' air quality. The air quality in Anand Vihar remained in 'severe' category and the AQI was recorded at 429 at… [+4265 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "TOI Trending Desk",
+			"title": "Why you can’t see stars from an airplane window: How cabin lights and light pollution block the night sky",
+			"description": "Ever wondered why stars vanish from view on night flights? It's not just altitude; bright cabin lights create window glare, hindering your eyes' ability to see faint stars. City light pollution and a bright moon further obscure the cosmos. Learn how to maximi…",
+			"url": "https://timesofindia.indiatimes.com/etimes/trending/why-you-cant-see-stars-from-an-airplane-window-how-cabin-lights-and-light-pollution-block-the-night-sky/articleshow/125507070.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125507404,width-1070,height-580,imgsize-49220,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-22T17:05:43Z",
+			"content": "<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Why you cant see stars from an airplane window: How cabin lights and light pollution block the night sky</li></ul>\r\nEver wondered why sta… [+2030 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "PTI",
+			"title": "Pollution: Delhi govt advises private offices to allow 50 per cent employees to work from home",
+			"description": "Delhi's government has mandated private offices to operate with 50% on-site staff and the rest working from home, as air quality remains 'very poor' under GRAP Stage III. This advisory, following CAQM directions, aims to curb pollution with staggered timings …",
+			"url": "https://economictimes.indiatimes.com/news/india/pollution-delhi-govt-advises-private-offices-to-allow-50-per-cent-employees-to-work-from-home/articleshow/125508405.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125508504,width-1200,height-630,imgsize-1530462,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-22T16:52:56Z",
+			"content": "New Delhi: The Delhi government on Saturday directed private offices to operate with 50 per cent on-site staff and to allow the remaining employees to work from home as a precautionary measure under … [+2646 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "Prabhudatta  Mishra",
+			"title": "“Work from Home” allowed in Delhi NCR to cut air pollution; State, Centre to decide",
+			"description": "The CAQM in NCR has revised the GRAP for the entire NCR on November 21; As a result, some measures previously listed under Stage IV have been shifted to the Stage III guidelines",
+			"url": "https://www.thehindubusinessline.com/news/national/work-from-home-allowed-in-delhi-ncr-to-cut-air-pollution-state-centre-to-decide/article70311002.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/2ah9u6/article70311035.ece/alternates/LANDSCAPE_1200/05_Smog_22_11_Delhi.jpg",
+			"publishedAt": "2025-11-22T11:07:49Z",
+			"content": "Amid allegation over air pollution data in the National Capital Region of Delhi not reflecting the severity due to data management, the Commission for Air Quality Management (CAQM) has revised some m… [+2528 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Smog tightens grip: Delhi cracks down with Rs 5 lakh fines and revised GRAP rules",
+			"description": "Delhi is intensifying its fight against air pollution. The government is cracking down on dust from construction and road cutting. Strict fines are in place for violations. Enforcement teams are actively monitoring sites. Measures include water sprinkling and…",
+			"url": "https://economictimes.indiatimes.com/news/india/smog-tightens-grip-delhi-cracks-down-with-rs-5-lakh-fines-and-revised-grap-rules/articleshow/125502600.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125502579,width-1200,height-630,imgsize-106850,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-22T09:32:32Z",
+			"content": "Delhi government is stepping up its efforts to combat dust emissions from road cutting and construction activity to reduce air pollution in the national capital. Environment Minister Manjinder Singh … [+3492 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Measures under GRAP IV to be imposed under GRAP III as Delhi's AQI persists in 'very poor'",
+			"description": "GRAP for NCR has been formulated after careful consideration of scientific data, stakeholder consultations, expert recommendations, along with field experience and learnings in the past years",
+			"url": "https://www.thehindubusinessline.com/news/national/measures-under-grap-iv-to-be-imposed-under-grap-iii-as-delhis-aqi-persists-in-very-poor/article70310762.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/55bbzl/article70310768.ece/alternates/LANDSCAPE_1200/PTI11_22_2025_000048B.jpg",
+			"publishedAt": "2025-11-22T08:10:14Z",
+			"content": "Commission for Air Quality Management (CAQM) NCR and Adjoining Areas has revised the Graded Response Action Plan (GRAP) for the entire NCR, directed to impose the measures for 'Severe' AQI category u… [+3856 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "PTI",
+			"title": "Air quality remains 'very poor' in Delhi",
+			"description": "Delhi's air quality remains 'very poor' with an AQI of 360, as toxic conditions persist amid foggy weather.",
+			"url": "https://www.thehindubusinessline.com/news/air-quality-remains-very-poor-in-delhi/article70310319.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/xb67hd/article70310333.ece/alternates/LANDSCAPE_1200/DMRC-FINE_GT2F7GJJF70J5N.3.jpg.jpg",
+			"publishedAt": "2025-11-22T04:13:05Z",
+			"content": "File picture: Delhi breathed 'very poor' air on Friday (November 21, 2025) as the Air Quality Index (AQI) was recorded at 370, a marginal drop from 391 the day before, according to the Central Pollut… [+925 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi’s AQI improves on Saturday but remains in ‘very poor’ category",
+			"description": "Delhi's air quality persists in the 'very poor' category. The average AQI stands at 359. Noida's air quality is in the 'severe' category. Commuters navigate through smog. Residents express difficulties with daily life. Authorities are taking measures to contr…",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/delhis-aqi-improves-on-saturday-but-remains-in-very-poor-category/articleshow/125498297.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125498348,width-1200,height-630,imgsize-23138,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-22T02:48:40Z",
+			"content": "Delhis air quality stayed in the very poor zone on Saturday morning, with the city logging an average AQI of 359, according to the Air Quality Early Warning System. Though marginally better than Frid… [+3151 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Reshmi Dasgupta",
+			"title": "Air pollution: Is Delhi serious about wanting its wonderful winter back?",
+			"description": "Now the onset of November and the prospect of December seem to centre on only one thing in Delhi: Air Quality Index or AQI. And that other related acronym, PM-Particulate Matter-with its two numerical appendages, 2.5 and 10. There is nothing quite so joyless …",
+			"url": "https://economictimes.indiatimes.com/news/india/air-pollution-is-delhi-serious-about-wanting-its-wonderful-winter-back/articleshow/125493393.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125493381,width-1200,height-630,imgsize-175886,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-21T18:48:25Z",
+			"content": "It is that time of year again which once used to lift the spirits of all Dilliwallas: autumn and the gradual sashay into winter. The sunshine is mellow, there is a distinct nip in the air, making sip… [+3473 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": null,
+			"title": "Delhi needs urgent action to mitigate air pollution crisis",
+			"description": "Long-term strategies that include electrifying public transport, reducing crop-burning and enforcing industrial standards are essential",
+			"url": "https://www.thehindubusinessline.com/opinion/editorial/delhi-needs-urgent-action-to-mitigate-air-pollution-crisis/article70307783.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/u8772i/article70308709.ece/alternates/LANDSCAPE_1200/PTI11_21_2025_000113B.jpg",
+			"publishedAt": "2025-11-21T15:27:52Z",
+			"content": "The toxic blanket of smog that smothers the National Capital Region (NCR) and adjoining areas from October to January is as normalised in these parts as the onset of winter. Air quality dips sharply … [+2807 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "TOI Astrology",
+			"title": "Weekly Lal Kitab Horoscope, November 24-30, 2025: These Zodiac Signs Will Face a Decisive Moment in Love and Life",
+			"description": "This weekly horoscope blends Lal Kitab wisdom with practical advice for all zodiac signs. Key planetary influences and karmic lessons are highlighted, offering symbolic remedies to foster emotional harmony and spiritual growth. Each sign receives tailored gui…",
+			"url": "https://timesofindia.indiatimes.com/astrology/horoscope/weekly-lal-kitab-horoscope-november-24-30-2025-these-zodiac-signs-will-face-a-decisive-moment-in-love-and-life/articleshow/125488501.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125488490,width-1070,height-580,imgsize-52260,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-21T14:08:38Z",
+			"content": "This weekly horoscope blends Lal Kitab wisdom with practical advice for all zodiac signs. Key planetary influences and karmic lessons are highlighted, offering symbolic remedies to foster emotional h… [+1864 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "TOI Education",
+			"title": "Delhi schools postpone all outdoor sports activities due to high AQI levels and severe pollution warnings",
+			"description": "The Directorate of Education (DoE) has suspended all outdoor sports activities in Delhi schools as air quality worsens, following concerns raised by the Supreme Court (SC) and directions from the Commission for Air Quality Management (CAQM). With AQI levels r…",
+			"url": "https://timesofindia.indiatimes.com/education/news/delhi-schools-postpone-all-outdoor-sports-activities-due-to-high-aqi-levels-and-severe-pollution-warnings/articleshow/125485834.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125485830,width-1070,height-580,imgsize-48590,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-21T11:56:14Z",
+			"content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Delhi schools postpone all outdoor sports activities due to high AQI levels and severe pollution warnings</li></ul>\r\nThe Directorate of … [+2285 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Poor Delhi AQI not due to stubble burning this time: Check what’s fueling toxic air in the national capital",
+			"description": "Delhi AQI News: Open fires inside Delhi. from garbage and biomass to routine cooking and heating, now play a bigger role in its particulate pollution than any external factor this week. Experts say the city’s waste collection and processing systems remain ina…",
+			"url": "https://economictimes.indiatimes.com/news/india/poor-delhi-aqi-not-due-to-stubble-burning-this-time-check-whats-fueling-toxic-air-in-national-capital/articleshow/125484850.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125485087,width-1200,height-630,imgsize-26770,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-21T11:20:10Z",
+			"content": "Delhis air crisis deepened this week even as the role of stubble burning remained negligible, with multiple scientific assessments showing that open fires inside the city now contribute to more than … [+3299 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Delhi air quality improves slightly; AQI at 370, remains in 'very poor' category",
+			"description": "The Delhi High Court on Wednesday has told the Delhi Government that schoolchildren should not be made to play outdoor sports during the highly polluted winter months from November to January",
+			"url": "https://www.thehindubusinessline.com/news/national/delhi-air-quality-improves-slightly-aqi-at-370-remains-in-very-poor-category/article70306373.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/htn8c2/article70306388.ece/alternates/LANDSCAPE_1200/PTI11_21_2025_000019B.jpg",
+			"publishedAt": "2025-11-21T05:54:18Z",
+			"content": "Delhi's air quality improved slightly on Friday morning, with the overall Air Quality Index (AQI) at 370 at 8 am, according to data from the Central Pollution Control Board (CPCB). The city had recor… [+2640 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express Web Desk",
+			"title": "News Today Live Updates, 21 November | ‘Promised to change his school the day before he died’: Father of Class 10 boy who killed himself",
+			"description": "Latest News Live Updates | Many parents said the school WhatsApp groups remained silent for hours after the boy died. Teachers, they said, learnt of the incident only late at night on November 18.",
+			"url": "https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-11-21-2025-news-headlines-10377453/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Breaking-News-1600-900_553a16.jpg",
+			"publishedAt": "2025-11-21T04:45:31Z",
+			"content": "News Today Live Updates: Get the latest news updates from India and all around the world. Stay updated with breaking news today.The Enforcement Directorate has filed a supplementary prosecution compl… [+12767 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express Web Desk",
+			"title": "Delhi-NCR AQI Level Today: Toxic Delhi air equal to smoking 11 cigarettes, no respite in sight",
+			"description": "Delhi-NCR AQI Level Today, November 21, 2025: Delhi’s air quality has plunged to hazardous levels, with AQI readings crossing 450 and PM2.5 nearly 20 times above WHO limits. NCR cities fare even worse as authorities enforce GRAP-3; experts urge strict precaut…",
+			"url": "https://indianexpress.com/article/cities/delhi/delhi-aqi-level-today-november-21-2025-pollution-level-delhi-ncr-aqi-level-today-toxic-delhi-air-equal-to-smoking-11-cigarettes-no-respite-in-sight-10377449/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Delhi-AQI-5.png",
+			"publishedAt": "2025-11-21T02:34:35Z",
+			"content": "The air pollution in Delhi is only increasing by the day and there is no respite in sight. After a failed cloud seeding experiment to bring artificial rain, which cost the government crores, the situ… [+1965 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi's AQI remains 'very poor' at 372; 13 areas in national capital exposed to 'severe' air",
+			"description": "Weather conditions remain cool and slightly foggy. The India Meteorological Department (IMD) reported that Delhi recorded a minimum temperature of 11.4°C, nearly a degree below normal, while the maximum settled at 28.2°C, marginally above seasonal average. Th…",
+			"url": "https://economictimes.indiatimes.com/news/india/delhis-aqi-remains-very-poor-at-372-13-areas-in-national-capital-exposed-to-severe-air/articleshow/125475145.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125475168,width-1200,height-630,imgsize-12416,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-21T01:51:29Z",
+			"content": "Delhis air quality remained mired in the very poor zone on Friday, with 13 locations in the capital recording pollution levels in the severe bracket as of 7:05AM, according to data from the governmen… [+2466 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Neha Mishra",
+			"title": "AI-based prediction to green walls, 265 responses to Delhi govt's anti-pollution initiative",
+			"description": "Delhi’s Innovation Challenge has received over 265 proposals offering new technologies to cut air pollution, ranging from photocatalytic coatings and biofilm panels to AI-based dust prediction tools and mobile air purifiers.",
+			"url": "https://economictimes.indiatimes.com/news/india/ai-based-prediction-to-green-walls-265-responses-to-delhi-govts-anti-pollution-initiative/articleshow/125467127.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125467151,width-1200,height-630,imgsize-89392,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-20T16:24:53Z",
+			"content": "From photocatalytic coatings that use sunlight to dissolve pollutants to biofilm panels that clean air without electricity, AI-based dust prediction models and green facades for buildings, the Delhi … [+3380 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Bansri Shah",
+			"title": "In Delhi’s winter of toxic air, anger is rising faster than the AQI",
+			"description": "Delhi’s AQI has stayed locked in the “hazardous” zone for weeks, turning daily life into a health threat. This winter, the crisis feels different – not because the air is worse, but because citizens say they’ve had enough",
+			"url": "https://timesofindia.indiatimes.com/toi-plus/environment/in-delhis-winter-of-toxic-air-anger-is-rising-faster-than-the-aqi/articleshow/125465261.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125465244,width-1070,height-580,imgsize-4033926,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-20T14:28:26Z",
+			"content": "<ul><li>Bansri Shah</li><li>TIMESOFINDIA.COM Nov 20, 2025, 19:58 IST IST</li></ul>\r\nDelhis AQI has stayed locked in the hazardous zone for weeks, turning daily life into a health threat. This winter,… [+546 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Sophiya Mathew",
+			"title": "Work-from-home could start sooner, staggered office timings could kick in at lower levels of pollution: What CAQM has suggested in fight against toxic air in Delhi-NCR",
+			"description": "The air pollution watchdog has proposed a series of measures tightening the GRAP restrictions on living, travelling, and working. They are yet to be notified – but even when that happens, implementation will remain key.",
+			"url": "https://indianexpress.com/article/cities/delhi/work-from-home-at-lower-levels-of-pollution-fight-against-toxic-air-in-delhi-ncr-10376669/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Screenshot-2025-11-20-185311.png",
+			"publishedAt": "2025-11-20T13:30:56Z",
+			"content": "The Commission for Air Quality Management (CAQM), the air pollution watchdog for Delhi-NCR, has proposed a major rejig of the Graded Response Action Plan (GRAP), moving up several measures to earlier… [+5283 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi AQI hits 400, slips into ‘severe’ category as pollution chokes the national capital",
+			"description": "Delhi NCR AQI: Delhi's air quality worsened significantly on Thursday, reaching the 'severe' category with an AQI of 400. A thick haze persists due to low wind speeds and dropping temperatures. This follows Wednesday's high AQI of 392. Several pollution hotsp…",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-aqi-today-crosses-400-slips-into-severe-category-as-pollution-spikes-in-the-capital/articleshow/125451014.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125451011,width-1200,height-630,imgsize-64376,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-20T02:09:56Z",
+			"content": "Delhis air quality deteriorated sharply on Thursday, with the citys overall Air Quality Index (AQI) touching 400 and entering the severe category, according to data from the Central Pollution Control… [+1928 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express News Service",
+			"title": "Delhi’s pollution woes: Fewer farm fires, but NCR cities India’s most polluted",
+			"description": "With an Air Quality Index (AQI) of 422, Ghaziabad was the most polluted among the 239 cities in the country on Wednesday. Greater Noida, Noida and Delhi also featured in the list of most polluted cities, recording AQI of 420, 409 and 392, respectively.",
+			"url": "https://indianexpress.com/article/cities/delhi/delhis-pollution-woes-fewer-farm-fires-but-ncr-cities-indias-most-polluted-10375185/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/pollution-original-4col.jpg",
+			"publishedAt": "2025-11-20T00:43:56Z",
+			"content": "Despite there being a considerable dip in instances of farm fires in the last two days from around 16% on Monday to 3.8% by Wednesday Delhi and its adjoining areas remained the most polluted in the c… [+1754 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Shivika Manchanda",
+			"title": "Sorry, it’s not just clean air, machines that clean it are also out of stock",
+			"description": "Delhi residents are facing a severe shortage of air purifiers as the city grapples with alarming AQI levels. Stores across major areas have sold out, with dwindling stock even on e-commerce platforms.",
+			"url": "https://timesofindia.indiatimes.com/city/delhi/sorry-its-not-just-clean-air-machines-that-clean-it-are-also-out-of-stock/articleshow/125438088.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125438213,width-1070,height-580,imgsize-200670,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+			"publishedAt": "2025-11-19T13:31:11Z",
+			"content": "I have been looking to get an air purifier for my home, mainly for the bedroom. The ones which are available both online/offline arent much effective given the 400+ AQI Somanshu Gupta, a resident of … [+8 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "Prabhudatta  Mishra",
+			"title": "Air pollution in NCR a concern even as stubble burning drops",
+			"description": "The number of stubble burning incidents since paddy harvesting, which started from September 15, has reached 21,928 until November 18, which is 19.7 per cent lower from 27,319 cases in the year-ago period, according to CREAMS",
+			"url": "https://www.thehindubusinessline.com/news/air-pollution-in-ncr-a-concern-even-as-stubble-burning-drops/article70298433.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/svjnhc/article70299097.ece/alternates/LANDSCAPE_1200/6607_17_11_2025_17_17_46_4_17_11_STANDALONELUCKNOW_N.JPG",
+			"publishedAt": "2025-11-19T13:04:26Z",
+			"content": "Air quality in the national capital region of Delhi continues to be in the very poor-severe category even though data show that stubble burning incidents from the neighbouring States have come down.\r… [+2919 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "PTI",
+			"title": "Delhi govt waging war on pollution, citizens must join effort:",
+			"description": "Delhi's government urges citizens to join the fight against pollution as air quality remains 'very poor' with an AQI of 391.",
+			"url": "https://www.thehindubusinessline.com/news/national/delhi-govt-waging-war-on-pollution-citizens-must-join-effort/article70298317.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/4wo34p/article70298325.ece/alternates/LANDSCAPE_1200/PTI11_01_2025_000079A.jpg",
+			"publishedAt": "2025-11-19T09:41:54Z",
+			"content": "Delhi Environment Minister Manjinder Singh Sirsa said on Wednesday the government is waging a war against pollution and urged people to join its efforts to improve the city's air.\r\nHe said 62 new pol… [+1299 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express Web Desk",
+			"title": "Delhi News LIVE Updates: Al Falah university made Rs 415 crore in fees by duping students, says ED; Gangster Anmol Bishnoi to land at IGI shortly",
+			"description": "Delhi News Live Updates: The overall AQI, rose to 543 at 7am on Wednesday, as per aqi.in. This is equivalent to inhaling the smoke from more than 12 cigarettes a day.",
+			"url": "https://indianexpress.com/article/cities/delhi/delhi-news-live-updates-red-fort-blast-ed-al-falah-aqi-weather-rekha-gupta-10373630/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Delhi-AQI-3.png",
+			"publishedAt": "2025-11-19T04:56:18Z",
+			"content": "The overall AQI, rose to 543 at 7am on Wednesday, as per aqi.in. (Source: PTI)Delhi News Live Updates: Haryana-based Al Falah University generated Rs 415 crore proceeds of crime by dishonestly induci… [+2742 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi AQI: Capital’s air quality dips again as index rises to 388, 16 stations record ‘severe’ levels",
+			"description": "��The level marks a return to worsening pollution just a day after a brief reduction was recorded, and firmly places the national capital back in the “very poor” category. Sixteen monitoring stations across the city recorded AQI readings above 400, classified…",
+			"url": "https://economictimes.indiatimes.com/news/weather/delhi-aqi-capitals-air-quality-dips-again-as-index-rises-to-388-16-stations-record-severe-levels/articleshow/125425033.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125425050,width-1200,height-630,imgsize-30724,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-19T02:21:31Z",
+			"content": "Delhis air quality deteriorated sharply on Wednesday, with the citywide Air Quality Index climbing to 388, according to data from the Sameer app. The level marks a return to worsening pollution just … [+2287 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express Web Desk",
+			"title": "Delhi-NCR AQI Level Today, November 19: AQI in UP village crosses 1,000 as PM levels shoot far higher than WHO limit",
+			"description": "Delhi-NCR AQI Level Today, November 19: Check the latest air quality index, pollution level, and smog conditions across Delhi and NCR. Delhi-NCR’s air quality has plunged to alarming levels, with PM2.5 and PM10 readings far exceeding WHO limits. AQI across De…",
+			"url": "https://indianexpress.com/article/cities/delhi/delhi-aqi-level-today-november-19-2025-pollution-up-who-limit-10373537/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Delhi-AQI1.png",
+			"publishedAt": "2025-11-19T02:17:46Z",
+			"content": "The Delhi-NCR pollution is showing no sign of abating and is now alarming. The air quality index (AQI) has been constantly rising since the withdrawal of the monsoon in north India and is now alarmin… [+3376 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Upasika Singhal",
+			"title": "In ‘very poor’ air, Jantar Mantar protesters demand ‘right to life’",
+			"description": "The air quality index rose to 374 on Tuesday from 351 a day earlier.",
+			"url": "https://indianexpress.com/article/cities/delhi/in-very-poor-air-jantar-mantar-protesters-demand-right-to-life-10373333/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Delhis-air-quality-index-rose-to-374-on-Tuesday-from-351-a-day-earlier.-Gajendra-Yadav.jpg",
+			"publishedAt": "2025-11-19T00:00:15Z",
+			"content": "Students, activists and other residents gathered at Delhis Jantar Mantar on Tuesday to protest against the worsening air quality of the Capital. This comes nine days after people were detained for pr… [+4244 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi’s 'toxic' air hits offices: Employee requests WFH for severe headache, and what the manager said is now viral",
+			"description": "The young worker’s complaint reflects a growing frustration among office-goers who must navigate both health risks and workplace expectations while Delhi continues to battle another spell of toxic air.",
+			"url": "https://economictimes.indiatimes.com/news/new-updates/delhis-toxic-air-hits-offices-employee-requests-wfh-for-severe-headache-and-what-the-manager-said-is-now-viral/articleshow/125409827.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125410070,width-1200,height-630,imgsize-84916,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-18T11:06:23Z",
+			"content": "At a time when Delhis pollution is swallowing the city in a thick, unrelenting haze, one office workers story has struck a chord with thousands who are trying to work through burning eyes and poundin… [+2651 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Iasbaba.com" },
+			"author": "IASbaba",
+			"title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 18th November – 2025",
+			"description": "Archives (PRELIMS  Focus) (MAINS Focus)\nThe post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 18th November – 2025 appeared first on IASbaba.",
+			"url": "https://iasbaba.com/2025/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-18th-november-2025/",
+			"urlToImage": "https://iasbaba.com/wp-content/uploads/2025/11/Autonomous-District-Councils.png",
+			"publishedAt": "2025-11-18T10:00:05Z",
+			"content": "(UPSC GS Paper III Environmental pollution and degradation)\r\nContext (Introduction)Indias recurring winter smog and year-round pollution in cities like Delhi and Mumbai mirror Chinas crisis of the 20… [+5052 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi Air Pollution: CAQM quashes reports of GRAP-4 enforcement; confirms only stage-3 measures in effect",
+			"description": "Officials have quashed rumors of emergency pollution restrictions in New Delhi, clarifying that the Commission for Air Quality Management still operates under the GRAP-III guidelines. Tuesday's air quality index showed a range from 200 to 350, well below the …",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-air-pollution-caqm-quashes-reports-of-grap-4-enforcement-confirms-only-stage-3-measures-in-effect/articleshow/125408098.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125408337,width-1200,height-630,imgsize-104904,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-18T09:59:09Z",
+			"content": "The Commission for Air Quality Management (CAQM) has dismissed media reports of GRAP-IV having been enforced in New Delhi where air quality level has hovered between 200 and 350 on Tuesday. The monit… [+1426 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express Web Desk",
+			"title": "GRAP 4 imposed in national capital over rising AQI? CAQM issues clarification on Delhi GRAP status",
+			"description": "Delhi saw a spike in GRAP-4 searches amid rising pollution, but CAQM has clarified that only Stage 3 curbs are in force. Here’s what’s true and what GRAP-4 actually means.",
+			"url": "https://indianexpress.com/article/cities/delhi/delhi-grap-4-imposed-rumour-caqm-issues-clarification-10372037/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/delhi-pollution-2_20251118063450.jpg",
+			"publishedAt": "2025-11-18T06:43:14Z",
+			"content": "Social media and Google search on Tuesday suddenly saw a spike on searches pertaining to the GRAP status in Delhi. Many claimed that the increasing air pollution in Delhi and the rising air quality i… [+1506 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "GRAP 4 restrictions in Delhi-NCR: Here's what's allowed and what is not when pollution levels cross 451 mark",
+			"description": "Delhi is enveloped in toxic smog, with the AQI at 341 in the \"very poor\" category. GRAP-III is in effect, but GRAP-IV, triggered by AQI above 451, has not yet been imposed. This stage would bring stricter measures like potential online classes, work-from-home…",
+			"url": "https://economictimes.indiatimes.com/news/politics-and-nation/grap-4-restrictions-in-delhi-ncr-heres-whats-allowed-and-what-is-not-when-pollution-levels-cross-451-mark/articleshow/125403057.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125403386,width-1200,height-630,imgsize-18050,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-18T06:12:16Z",
+			"content": "Delhi is enveloped in toxic smog, with the AQI at 341 in the \"very poor\" category. GRAP-III is in effect, but GRAP-IV, triggered by AQI above 451, has not yet been imposed. This stage would bring str… [+116 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Ndtvprofit.com" },
+			"author": "PTI",
+			"title": "New Delhi Wakes Up To 'Very Poor' Air Quality Again",
+			"description": "Out of 37 monitoring stations, Bawana (426), Wazirpur (412), Jahangirpuri (418) and Vivek Vihar (402) were in the 'severe' range.",
+			"url": "https://www.ndtvprofit.com/nation/new-delhi-wakes-up-to-very-poor-air-quality-again",
+			"urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-18%2Fw608i9nt%2Fdelhi-aqi.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+			"publishedAt": "2025-11-18T04:32:51Z",
+			"content": "Delhiites woke up to 'very poor' air on Tuesday, with the city's AQI touching 344 and four stations reporting 'severe' pollution levels, the Central Pollution Control Board (CPCB) data showed.\r\nOut o… [+629 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Delhi shrouded in toxic smog, AQI stands at 341 in 'very poor' category",
+			"description": "A thick layer of toxic smog blanketed several areas of Delhi. According to the CPCB, Dhaula Kuan recorded an AQI of 365, categorising it in the “very poor” category",
+			"url": "https://www.thehindubusinessline.com/news/delhi-shrouded-in-toxic-smog-aqi-stands-at-341-in-very-poor-category/article70293110.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/72e9fw/article70293127.ece/alternates/LANDSCAPE_1200/TH17-KDR-PerenGMFF69QIH.3.jpg.jpg",
+			"publishedAt": "2025-11-18T03:50:36Z",
+			"content": "The national capital woke up to a thick layer of toxic smog on Tuesday morning with an average Air Quality Index (AQI) at 341 at 7 am in the \"very poor\" category, according to the Central Pollution C… [+2167 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi chokes amidst thick smog, pollution as AQI plunges deep into ‘very poor’ zone",
+			"description": "The readings reflected almost no improvement from Monday, when the average AQI stood at 351 at the same hour. A dense haze hung over several parts of the national capital through the morning, reducing visibility and adding to public health concerns. Neighbour…",
+			"url": "https://economictimes.indiatimes.com/news/weather/delhi-aqi-ncr-chokes-amidst-thick-smog-pollution-as-aqi-plunges-deep-into-very-poor-zone/articleshow/125400438.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125400618,width-1200,height-630,imgsize-24772,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-18T03:20:42Z",
+			"content": "Delhi woke up to another morning of suffocating smog on Tuesday, with the citys average Air Quality Index (AQI) touching 341 at 7 am firmly in the very poor category, data from the Central Pollution … [+2042 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Bureau",
+			"title": "Delhi air pollution: SC seeks AQI monitoring info from Delhi govt",
+			"description": "The Supreme Court has ordered the Delhi government to provide details on air quality monitoring equipment. This comes after claims that water sprinkling near stations skewed readings. The court also heard suggestions on stubble burning solutions and a potenti…",
+			"url": "https://economictimes.indiatimes.com/news/india/smog-in-delhi-air-pollution-sc-seeks-aqi-monitoring-info-from-delhi-govt-rekha-gupta-bjp/articleshow/125393182.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125393565,width-1200,height-630,imgsize-19692,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-17T18:36:42Z",
+			"content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG… [+439 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ANI",
+			"title": "SC asks Delhi govt to furnish details about efficacy in measuring AQI",
+			"description": "The Supreme Court has directed the Delhi government to provide details about its air quality monitoring equipment. The court wants to know the nature and efficiency of these devices. This comes amid concerns about skewed AQI readings. The court also urged the…",
+			"url": "https://economictimes.indiatimes.com/news/india/sc-asks-delhi-govt-to-furnish-details-about-efficacy-in-measuring-delhi-aqi-rekha-gupta/articleshow/125387284.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125387519,width-1200,height-630,imgsize-1114910,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-17T13:50:03Z",
+			"content": "The Supreme Court on Monday asked the Delhi government to file an affidavit detailing the nature of the equipment and its efficiency in measuring the Air Quality Index (AQI) in the national capital.A… [+2106 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "PTI",
+			"title": "Delhi pollution: SC for long-term solution, refuses to ban polluting activities year round",
+			"description": "The top court asked the Punjab and Haryana governments to strictly follow the directions of the Commission for Air Quality Management (CAQM) on the issue of stubble burning in the two states.",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-pollution-sc-for-long-term-solution-refuses-to-ban-polluting-activities-year-round/articleshow/125385493.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125385509,width-1200,height-630,imgsize-132210,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-17T12:15:27Z",
+			"content": "Batting for a long-term solution for air pollution in Delhi-NCR, the Supreme Court on Monday refused to impose year-round restrictions on all activities prohibited under the Graded Response Action Pl… [+4708 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Livemint" },
+			"author": "mint",
+			"title": "When AQI crosses 400, it’s not just a health crisis—but a financial one too",
+			"description": "Toxic air is no longer only a health hazard—it is driving up insurance claims, household medical costs and financial stress for families. The next wave of personal finance must be climate-conscious.",
+			"url": "https://www.livemint.com/money/personal-finance/air-pollution-cost-india-delhi-ncr-air-quality-health-crisis-11763357592553.html",
+			"urlToImage": "https://www.livemint.com/lm-img/img/2025/11/17/1600x900/logo/PTI11-17-2025-000108B-0_1763364028702_1763364039142.jpg",
+			"publishedAt": "2025-11-17T08:07:38Z",
+			"content": "Last Tuesday morning, my friend called from Gurugram.\r\nIm taking my daughter to the hospital again,\" he said, voice heavy with worry. Third time this month.\" His seven-year-old had been coughing thro… [+4351 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "TOI Trending Desk",
+			"title": "Delhi smog hits severe levels, man flies to Singapore: ‘My lungs can’t handle 400 AQI’",
+			"description": "Delhi faces dangerous air quality levels. Residents are temporarily leaving the capital for cities like Singapore and Sydney. Social media posts showcase the stark difference in air quality. Delhi's AQI remains in the very poor to severe categories. Health ex…",
+			"url": "https://timesofindia.indiatimes.com/etimes/trending/delhi-smog-hits-severe-levels-man-flies-to-singapore-my-lungs-cant-handle-400-aqi/articleshow/125380138.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125380234,width-1070,height-580,imgsize-33960,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-17T08:02:23Z",
+			"content": "Delhi faces dangerous air quality levels. Residents are temporarily leaving the capital for cities like Singapore and Sydney. Social media posts showcase the stark difference in air quality. Delhi's … [+184 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi shivers at 9°C: Coldest November night in three years, AQI still 'very poor'",
+			"description": "Delhi experienced its chilliest November night in three years, with temperatures dipping to 9°C. Despite meeting cold wave criteria at two stations, it hasn't been officially declared due to the requirement of two consecutive days. Clear skies and cold winds …",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-shivers-at-9c-coldest-november-night-in-three-years-aqi-still-very-poor/articleshow/125379434.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125379439,width-1200,height-630,imgsize-15316,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-17T07:21:24Z",
+			"content": "The national capital experienced its chilliest November night in three years on Sunday, with the temperature at Safdarjung Delhis main weather station dipping to 9°C, which is 4.5 degrees below norma… [+2938 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "PTI",
+			"title": "Delhi air quality remains 'very poor' as city records season's lowest temperature",
+			"description": "Among the 38 AQI monitoring stations in the capital, Bawana reported the highest pollution level with an AQI of 419",
+			"url": "https://www.thehindubusinessline.com/news/national/delhi-air-quality-remains-very-poor-as-city-records-seasons-lowest-temperature/article70289388.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/kjuhg2/article70289390.ece/alternates/LANDSCAPE_1200/20251116168L.jpg",
+			"publishedAt": "2025-11-17T04:26:05Z",
+			"content": "Delhi on Monday recorded 'very poor' air quality with an overall AQI of 356, even as the city logged its lowest minimum temperature of the season at 8.7 degrees Celsius, the Central Pollution Control… [+1134 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ET Online",
+			"title": "Delhi AQI soars past 400 as smog chokes the national capital; air quality 'very poor'",
+			"description": "Delhi AQI Today: Famous city landmarks, including India Gate and Kartavya Path, were shrouded in heavy smog, with the AQI in the zone measured at 341, categorised as ‘very poor’. Several other monitoring stations reflected similarly grim numbers: Chandni Chow…",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-aqi-soars-past-400-as-smog-chokes-the-national-capital-air-quality-very-poor/articleshow/125375003.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125375014,width-1200,height-630,imgsize-1272362,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-17T03:02:25Z",
+			"content": "Delhi plunged into another toxic spell on Monday, with the citys average Air Quality Index touching 359 at 7 amfirmly in the very poor categoryeven as the Graded Response Action Plan (GRAP) Stage III… [+2766 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "TNN",
+			"title": "Mumbai’s air quality remains moderate but BKC logs ‘very poor’ AQI of 322",
+			"description": "Mumbai: The city's overall Air Quality Index (AQI) on Sunday continued to remain in the moderate category at 152, even as Bandra-Kurla Complex (BKC) s.",
+			"url": "https://timesofindia.indiatimes.com/city/mumbai/mumbais-air-quality-remains-moderate-but-bkc-logs-very-poor-aqi-of-322/articleshow/125369574.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125369573,width-1070,height-580,imgsize-10920,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-16T18:42:20Z",
+			"content": "Follow Us On Social Media\r\nClooney REACTS After Jay Kelly Reveals 40 Years of His Career On Screen | Must-See MomentSupporters react to India's shocking defeat at Eden Gardens: What do the fans think… [+1462 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Anna Fernandes",
+			"title": "Bengaluru breaches ‘unhealthy’ mark with AQI 100+",
+			"description": "As Delhi struggles with hazardous air, Bengaluru residents flag AQI spikes across neighbourhoods",
+			"url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-breaches-unhealthy-mark-with-aqi-100/articleshow/125363110.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125363074,width-1070,height-580,imgsize-340034,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-16T18:30:00Z",
+			"content": "Unlike Delhi, Bengalurus air pollution is almost entirely traffic- and transport-dependent, which makes it a serious concern. We need to pinpoint where AQI is crossing 100 and act quickly\r\nVishwanath… [+34 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Anna Fernandes",
+			"title": "Bengaluru breaches ‘unhealthy’ mark with AQI 100+",
+			"description": "As Delhi struggles with hazardous air, Bengaluru residents flag AQI spikes across neighbourhoods",
+			"url": "https://timesofindia.indiatimes.com/entertainment/events/bangalore/bengaluru-breaches-unhealthy-mark-with-aqi-100/articleshow/125362623.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125363074,width-1070,height-580,imgsize-340034,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-16T10:55:34Z",
+			"content": "Unlike Delhi, Bengalurus air pollution is almost entirely traffic- and transport-dependent, which makes it a serious concern. We need to pinpoint where AQI is crossing 100 and act quickly\r\nVishwanath… [+34 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "etimes.in",
+			"title": "Delhi pollution update: The city continues to breathe toxic air as AQI remains hazardous on Sunday",
+			"description": "Delhi is battling severe air pollution, with AQI readings in the hazardous category. Low ventilation and weak winds are trapping toxic haze, impacting residents' health. Experts warn of serious risks for everyone, urging precautions. Authorities are implement…",
+			"url": "https://timesofindia.indiatimes.com/life-style/travel/news/delhi-pollution-update-the-city-continues-to-breathe-toxic-air-as-air-quality-remains-hazardous-on-sunday/articleshow/125359870.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125359940,width-1070,height-580,imgsize-87770,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-16T05:20:36Z",
+			"content": "<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>travel</li>\r\n<li>Delhi pollution update: The city continues to breathe toxic air as AQI remains hazardous on Sunday</li></ul>\r\nDelhi is battling severe air … [+2054 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Ndtvprofit.com" },
+			"author": "PTI",
+			"title": "Delhi Air Quality Remains 'Very Poor'; AQI Stands At 385",
+			"description": "The air quality in the national capital remained in the “very poor” category on Sunday morning, with the overall Air Quality Index (AQI) recorded at 385, according to the Central Pollution Control Board (CPCB).",
+			"url": "https://www.ndtvprofit.com/nation/delhi-air-quality-remains-very-poor-aqi-stands-at-385",
+			"urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-10%2F79xsilqw%2FPTI11092025RPM414B.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+			"publishedAt": "2025-11-16T04:43:57Z",
+			"content": "An AQI between 0 and 50 is considered good, 51 to 100 satisfactory, 101 to 200 moderate, 201 to 300 poor, 301 to 400 very poor, and 401 to 500 severe, according to CPCB standards."
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ANI",
+			"title": "Thick smog engulfs Delhi as AQI reaches 385, India Gate barely visible",
+			"description": "Delhi woke up to a 'very poor' AQI of 385 on Sunday, with smog engulfing iconic landmarks like India Gate. Several areas, including Rajghat and ITO, recorded 'severe' air quality. In response, the Graded Response Action Plan (GRAP) III has been implemented, i…",
+			"url": "https://economictimes.indiatimes.com/news/india/thick-smog-engulfs-delhi-as-aqi-reaches-385-india-gate-barely-visible/articleshow/125359112.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125359144,width-1200,height-630,imgsize-17822,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-16T03:25:54Z",
+			"content": "A layer of thick smog engulfed several areas of the national capital on Sunday morning as Delhi woke up to an AQI of 385, in the 'very poor' category and showing little to no improvement from Saturda… [+2072 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Thick smog engulfs Delhi as AQI reaches 385, India Gate barely visible",
+			"description": "Rajghat and ITO were worse off, recording an AQI of 417, which placed them in the 'severe' category, according to data released by the Central Pollution Control Board",
+			"url": "https://www.thehindubusinessline.com/news/national/thick-smog-engulfs-delhi-as-aqi-reaches-385-india-gate-barely-visible/article70286336.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/kk8pcd/article70286339.ece/alternates/LANDSCAPE_1200/ANI-20251116025710.jpg",
+			"publishedAt": "2025-11-16T03:24:29Z",
+			"content": "A layer of thick smog engulfed several areas of the national capital on Sunday morning as Delhi woke up to an AQI of 385, in the 'very poor' category and showing little to no improvement from Saturda… [+2103 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BBC News" },
+			"author": null,
+			"title": "Why India caps pollution reading at 500 when the air is far more toxic",
+			"description": "India's air quality framework hasn't been comprehensively revised since 2009 and needs an update, say experts.",
+			"url": "https://www.bbc.com/news/articles/ced6jgg0180o",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5c3c/live/1a73af60-c17c-11f0-8456-eff94716b162.jpg",
+			"publishedAt": "2025-11-16T00:00:03Z",
+			"content": "Nikita YadavBBC News, Delhi\r\nFor millions across northern India, the November air tastes ashy, the sky looks visibly hazy and merely stepping outside feels like a challenge.\r\nFor many, their morning … [+4080 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express News Service",
+			"title": "Air set to turn ‘severe’ again next week",
+			"description": "According to India Meteorological Department (IMD), westerly winds with speeds up to 12 kmph prevailed over Delhi, aiding in the transportation of smoke from farm fires in neighbouring states.",
+			"url": "https://indianexpress.com/article/cities/delhi/air-set-to-turn-severe-again-next-week-10368358/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/airdelhi-5col_a60d90.jpg",
+			"publishedAt": "2025-11-15T23:58:24Z",
+			"content": "Delhis air quality index (AQI) showed no improvement on Saturday, with the city recording an average AQI of 386, in the Very Poor category nearly identical to Fridays reading of 387 — CPCB data shows… [+2496 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Delhi wakes up to thick smog as AQI touches 386, air quality remains in 'very poor' category",
+			"description": "India Gate was barely visible this morning, shrouded by a thick layer of smog, as the air quality in the national capital remained hazardous",
+			"url": "https://www.thehindubusinessline.com/news/national/delhi-wakes-up-to-thick-smog-as-aqi-touches-386-air-quality-remains-in-very-poor-category/article70282888.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/5r2dn1/article70283065.ece/alternates/LANDSCAPE_1200/20251114136L.jpg",
+			"publishedAt": "2025-11-15T05:26:06Z",
+			"content": "Delhi woke up to dense smog on Saturday morning as the Air Quality Index (AQI) stood at 386 at 8 am, falling under the 'very poor' category, according to data released by the Central Pollution Contro… [+2444 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "ANI",
+			"title": "Delhi wakes up to thick smog as AQI touches 386, air quality remains in 'very poor' category",
+			"description": "On Saturday morning, Delhi woke up to a thick blanket of smog that enveloped the city, pushing the Air Quality Index to a staggering 386, which falls under the 'very poor' category. Iconic landmarks like India Gate were cloaked in a ghostly haze, making them …",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-wakes-up-to-thick-smog-as-aqi-touches-386-air-quality-remains-in-very-poor-category/articleshow/125340816.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125340826,width-1200,height-630,imgsize-14402,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-15T03:37:44Z",
+			"content": "Delhi woke up to dense smog on Saturday morning as the Air Quality Index (AQI) stood at 386 at 8 am, falling under the 'very poor' category, according to data released by the Central Pollution Contro… [+2404 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express Web Desk",
+			"title": "Delhi-NCR AQI Level Today, November 14, 2025: Air quality still in ‘severe’ zone, GRAP Stage III stays in force",
+			"description": "With pollution levels remaining alarmingly high, the Commission for Air Quality Management (CAQM) has kept Stage III of the Graded Response Action Plan (GRAP) in place across Delhi-NCR.",
+			"url": "https://indianexpress.com/article/cities/delhi/delhis-aqi-386-severe-zone-grap-stage-iii-10366831/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/BIhar-2-3.jpg",
+			"publishedAt": "2025-11-15T02:46:52Z",
+			"content": "Delhi woke up to another day of choking smog on Saturday, with the air quality remaining in the severe category. The Air Quality Early Warning System (EWS) recorded the citys AQI at 386, while privat… [+784 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Dipak K Dash,Jai Narain Pandey",
+			"title": "Bihar election results: Chirag is third hero in NDA multi-starrer",
+			"description": "India News: NEW DELHI/PATNA: Before these polls, Chirag Paswan had described himself as \\\"sabji mein namak\\\" (salt in vegetables), which is essential to any politic.",
+			"url": "https://timesofindia.indiatimes.com/india/bihar-election-results-chirag-is-third-hero-in-nda-multi-starrer/articleshow/125340129.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125340152,width-1070,height-580,imgsize-85192,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-15T02:14:18Z",
+			"content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Bihar election results: Chirag is third hero in NDA multi-starrer</li></ul>\r\nFollow Us On Social Media\r\nPisces Daily Horoscope Today, November 15, 2025: If… [+2003 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Subodh Ghildiyal",
+			"title": "Bihar election results: Road bloc! Is it time to reinvent idea of 'INDIA'?",
+			"description": "India News: NEW DELHI: Staring at a political abyss in the face of continued decline post-2014 - hastened after 2019 - a flailing opposition came together to give.",
+			"url": "https://timesofindia.indiatimes.com/india/bihar-election-results-road-bloc-is-it-time-to-reinvent-idea-of-india/articleshow/125339760.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125339842,width-1070,height-580,imgsize-89286,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-15T01:41:59Z",
+			"content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Bihar election results: Road bloc! Is it time to reinvent idea of 'INDIA'?</li></ul>\r\nFollow Us On Social Media\r\nSTOP making your bed immediately after wak… [+1741 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Express News Service",
+			"title": "AQI likely to stay between ‘severe’ and ‘very poor’ in coming week in Delhi",
+			"description": "Days after the contribution of farm fires to the city’s air pollution peaked earlier this week at nearly 22%, stubble burning contributed 8.54% to Delhi’s PM2.5 levels on Friday, down from 12% the previous day.",
+			"url": "https://indianexpress.com/article/cities/delhi/aqi-likely-to-stay-between-severe-and-very-poor-in-coming-week-in-delhi-10366687/",
+			"urlToImage": "https://images.indianexpress.com/2025/11/Delhi-pollution-Grap-3_20251114222428.png",
+			"publishedAt": "2025-11-15T00:18:07Z",
+			"content": "Delhi continued to choke on Friday even as the overall air quality improved slightly. After the Capital recorded the air quality index (AQI) in the Severe category for three days in a row, the averag… [+2296 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Indian Express" },
+			"author": "Lifestyle Desk",
+			"title": "Escape Delhi’s ‘severe’ AQI with a trip to these Indian states",
+			"description": "The natural geography and sustainable practices of some of the Indian states make them less polluted compared to the rest",
+			"url": "https://indianexpress.com/article/lifestyle/destination-of-the-week/delhi-severe-aqi-indian-states-are-breathing-easy-with-cleanest-air-10361439/",
+			"urlToImage": "https://images.indianexpress.com/2025/08/Delhi-pollution.jpg",
+			"publishedAt": "2025-11-14T13:00:21Z",
+			"content": "As the national capitals air quality continues to worsen with the latest Air Quality Index (AQI) between 400 and 500, meaning severe, we take a look at some of the cleanest states in the country.As o… [+4070 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "ANI",
+			"title": "Delhi wakes up to toxic layer of smog, overall AQI at 397 in 'very poor' category",
+			"description": "With air quality in the national capital deteriorating sharply, the Commission for Air Quality Management (CAQM) has already invoked Stage III curbs under GRAP across the entire National Capital Region, categorising Delhi's air as the 'severe' category",
+			"url": "https://www.thehindubusinessline.com/news/national/delhi-wakes-up-to-toxic-layer-of-smog-overall-aqi-at-397-in-very-poor-category/article70278355.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/incoming/z0hmqk/article70278807.ece/alternates/LANDSCAPE_1200/PTI11_12_2025_000038B.jpg",
+			"publishedAt": "2025-11-14T06:49:38Z",
+			"content": "Delhi woke up on Friday to a thick layer of toxic smog, as the air quality in the national capital showed no improvement, with the Air Quality Index (AQI) standing at 397, categorised as 'very poor' … [+2455 chars]"
+		},
+		{
+			"source": { "id": null, "name": "India Today" },
+			"author": "Sonal Mehrotra Kapoor",
+			"title": "Air pollution: Delhi kids may die earlier, be dumber, get sicker and perform badly in school",
+			"description": "Children in Delhi are breathing dangerously polluted air that threatens their health and future This toxic environment risks early death developmental harm and poor academic outcomes for an entire generation",
+			"url": "https://www.indiatoday.in/health/story/air-pollution-delhi-kids-may-die-earlier-be-dumber-get-sicker-and-perform-badly-in-school-2819210-2025-11-14",
+			"urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/mother-putting-mask-on-daughters-face-while-walking-on-pedestrian-walkway-the-mumbai-city-street-135029842-16x9_0.jpg?VersionId=MP7eveRMsOnsYRIKvlkUgSNhT.zLZfFU",
+			"publishedAt": "2025-11-14T02:33:52Z",
+			"content": "Its Children’s Day, and kids in Delhi are waking up to skies the colour of ash. Their crayons still have a “sky” blue, but they don’t know what that looks like.\r\nBecause in Delhi–NCR, children aren’t… [+5625 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BusinessLine" },
+			"author": "Rowan Barnett",
+			"title": "Top Business & Market Headlines Today — BL Morning Report, Nov 14, 2025",
+			"description": "BL Morning Report November 14, 2025: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
+			"url": "https://www.thehindubusinessline.com/multimedia/audio/top-business-market-headlines-today-bl-morning-report-nov-14-2025/article70276746.ece",
+			"urlToImage": "https://bl-i.thgim.com/public/multimedia/video/xe8wic/article70276729.ece/alternates/LANDSCAPE_1200/Copy%20of%20BL%20Morning%20report%201920%20x%201080%20px.png",
+			"publishedAt": "2025-11-14T02:25:00Z",
+			"content": "Gold kept Indias retail inflation in positive territory in October even as it slipped to a multi-year low of 0.25%, according to the NSO. Prices of 24-carat gold touched 1.31 lakh per 10 grams, drivi… [+2489 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Teena Thacker",
+			"title": "Delhi-NCR 'unliveable': Exports flag serious health risks amid toxic smog",
+			"description": "Delhi NCR faces severe air pollution making it unliveable. Experts warn of widespread health impacts affecting all ages. Doctors report a significant rise in respiratory cases. Vulnerable groups and even youngsters are experiencing worsened symptoms. Protecti…",
+			"url": "https://economictimes.indiatimes.com/news/india/delhi-ncr-unliveable-exports-flag-serious-health-risks-amid-toxic-smog/articleshow/125307693.cms",
+			"urlToImage": "https://img.etimg.com/thumb/msid-125308341,width-1200,height-630,imgsize-67538,overlay-economictimes/articleshow.jpg",
+			"publishedAt": "2025-11-13T18:42:04Z",
+			"content": "New Delhi: \"By any reasonable standards, we cannot call Delhi NCR liveable, \" said Anurag Agrawal, Dean, Biosciences and health research at the Ashoka University, as Delhi and adjoining areas gasp fo… [+3636 chars]"
+		},
+		{
+			"source": { "id": "the-times-of-india", "name": "The Times of India" },
+			"author": "Global Sports Desk",
+			"title": "‘They know Asmongold?’ HasanAbi’s stunned reaction to the streamer’s global fame breaks the internet",
+			"description": "US Streamers News: During a recent conversation about streamers, HasanAbi expressed complete shock upon learning that his fellow streamer, Asmongold, is widely recognize.",
+			"url": "https://timesofindia.indiatimes.com/world/us-streamers/they-know-asmongold-hasanabis-stunned-reaction-to-the-streamers-global-fame-breaks-the-internet/articleshow/125301499.cms",
+			"urlToImage": "https://static.toiimg.com/thumb/msid-125302308,width-1070,height-580,imgsize-42496,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"publishedAt": "2025-11-13T14:31:00Z",
+			"content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>They know Asmongold? HasanAbis stunned reaction to the streamers global fame breaks the internet</li></ul>\r\nFollow Us On Social Media\r\nWhen Robots Fail: Ru… [+3324 chars]"
+		}
+	]
+}
+

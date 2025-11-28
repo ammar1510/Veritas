@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-credibility-high: #10b981;
+  --color-credibility-medium: #3b82f6;
+  --color-credibility-low: #f59e0b;
+  --color-credibility-verylow: #ef4444;
+}
